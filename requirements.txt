@@ -1,0 +1,10 @@
+numpy
+bs4
+requests
+scipy
+matplotlib
+pandas
+seaborn
+pybase64
+altair>=5
+streamlit>=1.30.0
